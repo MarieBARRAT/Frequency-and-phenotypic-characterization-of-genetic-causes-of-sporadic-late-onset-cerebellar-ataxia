@@ -28,7 +28,7 @@ Phone: +33 (0)3 88 12 87 11 Fax: +33 (0) 3 88 12 85 33 Email: thomas.wirth@chru-
 
 ## 3D Plot representing the clusters of patients by their similitude in representative variables
  Download:
-  [html](STARAC_V3_MFA_3D_PLOT.html) 
+  [html]([https://github.com/MarieBARRAT/Frequency-and-phenotypic-characterization-of-genetic-causes-of-sporadic-late-onset-cerebellar-ataxia/raw/main/STARAC_V3_MFA_3D_PLOT.html]) 
 
  
 

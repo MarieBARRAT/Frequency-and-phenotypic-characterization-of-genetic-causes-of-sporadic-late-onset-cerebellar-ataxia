@@ -1,4 +1,4 @@
-# Frequency-and-phenotypic-characterization-of-genetic-causes-of-sporadic-late-onset-cerebellar-ataxia
+# Frequency and phenotypic characterization of genetic causes of sporadic late onset cerebellar ataxia
 
 This repository serves the only reason of contaninng supporting material used to write 
 
@@ -19,3 +19,8 @@ Marie Barrat (MD)1,2, Thomas Bogdan (MD)1 , Clarisse Delvallée (PhD)1,3,4 , Aur
 12 Department of Nuclear Medicine, Strasbourg University Hospital, Strasbourg, France.
 13 Department of Nuclear Medicine and Molecular Imaging, ICANS, Strasbourg, France.
 14 Department of Radiology, Strasbourg University Hospital, Strasbourg, France.
+
+**Corresponding author information:**
+Dr Thomas WIRTH
+Neurology department, Strasbourg University Hospital 67098 Strasbourg France
+Phone: +33 (0)3 88 12 87 11 Fax: +33 (0) 3 88 12 85 33 Email: thomas.wirth@chru-strasbourg.fr

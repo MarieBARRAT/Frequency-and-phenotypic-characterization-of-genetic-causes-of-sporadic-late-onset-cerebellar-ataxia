@@ -27,10 +27,11 @@ Neurology department, Strasbourg University Hospital 67098 Strasbourg France
 Phone: +33 (0)3 88 12 87 11 Fax: +33 (0) 3 88 12 85 33 Email: thomas.wirth@chru-strasbourg.fr
 
 ## 3D Plot representing the clusters of patients by their similitude in representative variables
-[Download the html]
-
+[View the html](https://raw.githubusercontent.com/MarieBARRAT/Frequency-and-phenotypic-characterization-of-genetic-causes-of-sporadic-late-onset-cerebellar-ataxia/ffdc49ff047b9a0b5845cdd943812aecb59a13d8/STARAC_V3_MFA_3D_PLOT.html)
+or 
+[Download as a ZIP]()
  
 
 ## Article Sumplementary 
-[Download the PDF]
+[Download the PDF](https://raw.githubusercontent.com/MarieBARRAT/Frequency-and-phenotypic-characterization-of-genetic-causes-of-sporadic-late-onset-cerebellar-ataxia/main/STARAC_v3%20_%20Supplementary.pdf)
 

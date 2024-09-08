@@ -33,5 +33,5 @@ Phone: +33 (0)3 88 12 87 11 Fax: +33 (0) 3 88 12 85 33 Email: thomas.wirth@chru-
  
 
 ## Article Sumplementary 
-[Download the PDF]([https://github.com/MarieBARRAT/Frequency-and-phenotypic-characterization-of-genetic-causes-of-sporadic-late-onset-cerebellar-ataxia/raw/main/STARAC_v3%20_%20Supplementary.pdf])
+[Download the PDF](https://github.com/MarieBARRAT/Frequency-and-phenotypic-characterization-of-genetic-causes-of-sporadic-late-onset-cerebellar-ataxia/raw/main/STARAC_v3%20_%20Supplementary.pdf]](https://github.com/MarieBARRAT/Frequency-and-phenotypic-characterization-of-genetic-causes-of-sporadic-late-onset-cerebellar-ataxia/blob/6c704f393a171a32a3f62c4b31e0ce50adb74b60/STARAC_v3%20_%20Supplementary.pdf)
 
